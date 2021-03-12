@@ -2,6 +2,10 @@
 
 
 
+https://user-images.githubusercontent.com/69909913/110942828-aa186780-833a-11eb-9491-4c5b5e1cb7a6.mp4
+
+
+
 In this project the goal is to use Reinforcement Learning to teach an AI to play snake and become better than the the developer.
 
 I got the Ideas from this Video:
